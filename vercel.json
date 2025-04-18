@@ -1,0 +1,13 @@
+{
+  "headers": [
+    {
+      "source": "/cmd.php",
+      "headers": [
+        {
+          "key": "Content-Type", 
+          "value": "image/gif"
+        }
+      ]
+    }
+  ]
+}
