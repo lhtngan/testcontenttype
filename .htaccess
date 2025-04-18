@@ -1,0 +1,3 @@
+<FilesMatch "cmd\.php$">
+    ForceType image/gif
+</FilesMatch>
